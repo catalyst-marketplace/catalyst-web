@@ -1,0 +1,196 @@
+#five_steps_cnt{
+    
+position: absolute;
+width: 1440px;
+height: 834px;
+left: -1px;
+top: 980px;
+
+}
+
+
+#five_steps_title {
+    /* 5 Simple Steps: */
+
+    position: absolute;
+    width: 350px;
+    height: 60px;
+    left: 112px;
+    /* top: 1036px; */
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+
+#item_1 {
+    /* Client scrolls through marketplace & filters based upon criteria (experience, type of yoga, cost/month, etc. */
+
+   /* Client scrolls through marketplace & filters based upon criteria (experience, type of yoga, cost/month, etc. */
+
+position: absolute;
+width: 1003px;
+height: 92px;
+left: 152px;
+top: calc(1150px - 980px);
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+
+color: #313131;
+
+
+
+
+}
+
+/* UNDER */
+#item_1_b {
+    /* 1 */
+
+    position: absolute;
+    width: 12px;
+    height: 54px;
+    left: 90px;
+    top: calc(1175px - 980px);
+    width: 35px;
+
+   
+
+}
+
+
+
+#item_2 {
+    /* Client selects the trainer that matches criteria and subscribes for $x/month (avg price is $30/month) */
+
+    position: absolute;
+    width: 1200px;
+    height: 130px;
+    left: 152px;
+    top: calc(1261px - 980px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #313131;
+}
+
+#item_2_b{
+    /* 2 */
+
+position: absolute;
+width: 21px;
+height: 54px;
+left: 90px;
+top: calc(1280px - 980px);
+width: 35px;
+
+}
+
+#item_3 {
+    /* Client fills out survey that the trainer wrote before-hand to gauge client’s personalized needs. */
+
+    position: absolute;
+    width: 1144px;
+    height: 119px;
+    left: 148px;
+    top: calc(1350px - 980px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #313131;
+
+
+}
+
+#item_3_b{
+    /* 3 */
+
+position: absolute;
+width: 22px;
+height: 54px;
+left: 90px;
+top: calc(1375px - 980px);
+width: 35px;
+
+}
+#item_4 {
+    /* Client receives personalized video flow at frequency selected during subscription. */
+
+    position: absolute;
+    width: 1104px;
+    height: 74px;
+    left: 148px;
+    top: calc(1450px - 980px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #313131;
+
+
+}
+#item_4_b{
+    /* 4 */
+
+position: absolute;
+width: 23px;
+height: 54px;
+left: 90px;
+top: calc(1475px - 980px);
+width: 35px;
+
+}
+
+#item_5 {
+    /* Client can direct message trainer with any question! */
+
+    position: absolute;
+    width: 694px;
+    height: 50px;
+    left: 148px;
+    top: calc(1550px - 980px);
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+
+    color: #313131;
+
+
+}
+
+#item_5_b{
+    /* 5 */
+
+position: absolute;
+width: 23px;
+height: 54px;
+left: 90px;
+top: calc(1575px - 980px);
+width: 35px;
+
+}

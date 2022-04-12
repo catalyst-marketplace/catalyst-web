@@ -1,0 +1,106 @@
+#intro_body{
+    position: absolute;
+    width: 1440px;
+    height: 951px;
+    left: 0px;
+    top: 0px;
+    
+/* filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25)); */
+}
+/* CATALYST */
+#title{
+    /* CATALYST */
+
+    position: absolute;
+    width: 249px;
+    height: 72px;
+    left: 107px;
+    top: 224px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 72px;
+    /* identical to box height */
+
+    /* Gradient */
+    background: linear-gradient(90.71deg, #8F73E0 0%, #5B68DF 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+
+    
+}
+/* identical to box height */
+
+#logo {
+    /* icon hd tp-02 1 */
+
+position: absolute;
+width: 67px;
+height: 53px;
+left: 40px;
+top: 43px;
+
+/* background: url(icon hd "logo.svg"); */
+
+}
+
+#subtitle{
+    position: absolute;
+    width: 1255px;
+    height: 60px;
+    left: 107px;
+    top: 296px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 60px;
+    /* identical to box height */
+
+    /* Black */
+    color: #1F1D2B;
+}
+
+#intro_description{
+    /* Introducing Catalyst, the world’s first video-subscription marketplace for technique-based learning. Starting with yoga. */
+
+position: absolute;
+width: 951px;
+height: 112px;
+left: 107px;
+top: 419px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+
+color: #000000;
+
+
+}
+
+/* Helping people: Save Time Save Money Get Personalization */
+.helping_people_container{
+
+    position: absolute;
+    width: 428px;
+height: 240px;
+left: 237px;
+top: 613px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #494949;
+}

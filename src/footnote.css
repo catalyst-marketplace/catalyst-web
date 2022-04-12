@@ -1,0 +1,109 @@
+#footnote {
+    /* full logo HD 1 */
+
+position: relative;
+width: 478px;
+height: 91px;
+left: 481px;
+top: 49px;
+
+
+}
+
+#footnote_container {
+    
+position: absolute;
+width: 1440px;
+height: 322px;
+left: 0px;
+top: 2586px;
+
+background: rgba(255, 255, 255, 0.1);
+backdrop-filter: blur(4px);
+/* Note: backdrop-filter has minimal browser support */
+}
+#contact_us{
+    /* Contact Us */
+
+position: absolute;
+width: 177px;
+height: 48px;
+left: 60px;
+top: 161px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+
+/* Gradient */
+background: linear-gradient(90.71deg, #8F73E0 0%, #5B68DF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+
+#contact_email{
+    /* support@catalystmarketplace.com */
+
+position: absolute;
+width: 679px;
+height: 112px;
+left: -66px;
+top: 231px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+#follow_on_cnt{
+    /* Follow us on */
+
+position: absolute;
+width: 195px;
+height: 48px;
+left: 1170px;
+top: 161px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height */
+text-align: right;
+
+/* Gradient */
+background: linear-gradient(90.71deg, #8F73E0 0%, #5B68DF 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+}
+
+#ig_square{
+    /* Rectangle 315 */
+
+position: absolute;
+width: 45px;
+height: 45px;
+left: 1320px;
+top: 250px;
+
+
+}

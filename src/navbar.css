@@ -1,0 +1,48 @@
+.navbar_item{
+    /* Home */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    /* identical to box height */
+
+    color: #606060;
+
+
+}
+#navbar_parent {
+    list-style-type: none;
+
+}
+#home{
+    position: absolute;
+    width: 72px;
+    height: 36px;
+    left: 913px;
+    top: 60px;
+
+}
+
+#how_it_works{
+    /* How It Works */
+
+position: absolute;
+width: 152px;
+height: 36px;
+left: 1058px;
+top: 60px;
+
+}
+
+#sign_up{
+    /* Sign Up */
+
+position: absolute;
+width: 91px;
+height: 36px;
+left: 1268px;
+top: 60px;
+
+
+}
