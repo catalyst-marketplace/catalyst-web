@@ -185,7 +185,7 @@ input.question:invalid ~ input[type="submit"], textarea.question:invalid ~ input
   width: 80%;
   height: 28px;
   left: 235px;
-  top: 2350px;
+  top: 500px;
   
   font-family: 'Roboto';
   font-style: normal;

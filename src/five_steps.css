@@ -1,10 +1,12 @@
 #five_steps_cnt{
     
-position: absolute;
+position: relative;
 width: 1440px;
 height: 834px;
 left: -1px;
 top: 980px;
+left: 50%;
+transform: translate(-50%, 0);
 
 }
 

@@ -7,7 +7,7 @@ position: absolute;
 width: 350px;
 height: 300px;
 left: 551px;
-top: 1750px;
+top: 0px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -27,7 +27,7 @@ position: absolute;
 width: 1200px;
 height: 112px;
 left: 100px;
-top: 2109px;
+top: 325px;
 
 font-family: 'Poppins';
 font-style: normal;
@@ -41,9 +41,11 @@ color: #000000;
 }
 
 #signup_container {
-    position: absolute;
+    position: relative;
+    top: 850px;
     width: 1440px;
     height: 834px;
     left: -1px;
-    top: -50px;
+    left: 50%;
+    transform: translate(-50%, 0);
 }

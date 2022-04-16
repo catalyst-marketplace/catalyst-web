@@ -7,10 +7,8 @@ function App() {
   return (
     <div id="body">
       <Introduction />
-      <div>
       <Five_Steps />
       <Sign_Up />
-      </div>
       <FootNote />
     </div>
   );
