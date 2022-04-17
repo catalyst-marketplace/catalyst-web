@@ -1,6 +1,11 @@
 import "./signup.css"
 import Input from "./input"
-function signup() {
+
+
+
+
+function signup(props) {
+
     return (
         <div id="signup_container">
             <p id="app_store_label">
@@ -16,7 +21,7 @@ function signup() {
             <p id="signup_subtitle">
             If you’re interested in changing the learning process by being our early adopter:
             </p>
-            <Input style="container"/>
+            <Input style="container" db={props.db}/>
         </div>
     )
 }
