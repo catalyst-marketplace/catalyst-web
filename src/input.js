@@ -1,6 +1,13 @@
 import "./input.css"
+import {getDatabse, ref, set} from "firebase/database";
+
+async function write(db, name, email, status){
+    set(ref(db, ))
+    
+}
 
 function input(props) {
+    const db = props.db;
     return (
         <div id={props.style}>
             <form>
